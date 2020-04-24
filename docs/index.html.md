@@ -1,5 +1,5 @@
 ---
-title: ALTO Virtual Account API Reference
+title: ALTO Biller API Reference
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - http: PHP / JSON
@@ -8,7 +8,7 @@ language_tabs: # must be one of https://git.io/vQNgJ
 #   - javascript
 
 toc_footers:
-  - Virtual Account API Documentation
+  - Biller API Documentation
   - <a href='#'>Postman API Collections</a>
   # - <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
 
